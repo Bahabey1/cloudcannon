@@ -1,0 +1,72 @@
+{
+  "listings": [
+    {
+      "title": "Seçkin Mülk 1",
+      "price": "₺14.500.000",
+      "location": "📍 Selçuklu, Konya",
+      "badge": "Satılık",
+      "bedrooms": "5+1",
+      "area": "320 m²",
+      "bathrooms": "3",
+      "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=700&q=80",
+      "link": "#"
+    },
+    {
+      "title": "Seçkin Mülk 2",
+      "price": "₺8.750.000",
+      "location": "📍 Meram, Konya",
+      "badge": "Öne Çıkan",
+      "badgeStyle": "background:var(--gold);color:var(--black);",
+      "bedrooms": "4+1",
+      "area": "210 m²",
+      "bathrooms": "2",
+      "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=700&q=80",
+      "link": "#"
+    },
+    {
+      "title": "Seçkin Mülk 3",
+      "price": "₺22.000.000",
+      "location": "📍 Karatay, Konya",
+      "badge": "Satılık Villa",
+      "bedrooms": "6+2",
+      "area": "480 m²",
+      "bathrooms": "4",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=700&q=80",
+      "link": "#"
+    },
+    {
+      "title": "Seçkin Mülk 4",
+      "price": "₺45.000 / ay",
+      "location": "📍 Selçuklu, Konya",
+      "badge": "Kiralık",
+      "bedrooms": "3+1",
+      "area": "160 m²",
+      "bathrooms": "2",
+      "image": "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=700&q=80",
+      "link": "#"
+    },
+    {
+      "title": "Seçkin Mülk 5",
+      "price": "₺5.200.000",
+      "location": "📍 Meram, Konya",
+      "badge": "Satılık",
+      "bedrooms": "2+1",
+      "area": "115 m²",
+      "bathrooms": "1",
+      "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=700&q=80",
+      "link": "#"
+    },
+    {
+      "title": "Seçkin Mülk 6",
+      "price": "₺18.900.000",
+      "location": "📍 Karatay, istanbul",
+      "badge": "Yeni Proje",
+      "badgeStyle": "background:var(--gold);color:var(--black);",
+      "bedrooms": "5+1",
+      "area": "280 m²",
+      "bathrooms": "3",
+      "image": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=700&q=80",
+      "link": "#"
+    }
+  ]
+}
